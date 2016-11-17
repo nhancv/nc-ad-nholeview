@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="_nHoleView">
+        <attr name="_anchorDrawable" format="reference"/>
+        <attr name="_outsideColor" format="color"/>
+        <attr name="_insideColor" format="color"/>
+    </declare-styleable>
+</resources>
